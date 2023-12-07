@@ -17,10 +17,10 @@ The user is a marketing manager for a sports game-producing company. He wants to
 #### Tableau Dashboard
 <img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/73736049-0ae4-4f4f-b60b-19506ca2b78d">
 
-#### Power Bi Dahsboard
+#### Power Bi Dashboard
 <img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ad0c01a5-6ba3-47b0-bba8-ddacca1546f9">
 
-### Walkthrough
+### Walkthrough on Tableau
 ANSWERING QUESTION 1: From the 3 views below the year in which the most popular sports game publisher (Electronic Arts) had its highest sale was 2009 and the platform that influenced their popularity the most was PS3.
 1. Electronic Arts published the most sports games.
 <img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/40762a6f-b5b6-4734-994a-4dfcaa79db5a">
