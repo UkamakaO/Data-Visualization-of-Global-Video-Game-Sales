@@ -31,5 +31,10 @@ ANSWERING QUESTION 1: From the 3 views below the year in which the most popular 
 3. PS3 was the best platform used to bring the highest sale.
 <img width="394" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ba416087-1c6b-4603-98f7-646d9aa058e6">
 
+ANSWERING QUESTION 2: From the views below, we see that there was a strong negative correlation between the EU(Europe) and NA (North America) and FIFA 15 was the top-selling game popular in the two regions. 
 
+4. EU and NA are seen to have a strong negative correlation.
+<img width="345" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/c49ee171-bdf8-4833-8e26-59c00cd59ec8">
 
+5. FIFA 15 was the top-selling sports game common to the EU and NA.
+<img width="319" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/de08a5ef-a782-4b77-a9ee-8cd5371df488">
