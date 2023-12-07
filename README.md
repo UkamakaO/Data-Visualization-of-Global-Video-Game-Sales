@@ -1,4 +1,4 @@
-# Data-Visualization-Project
+# Data-Visualization-of-Global-Video-Game-Sales
 ### Introduction
 A tableau dashboard is created as an infographic tool to tell two stories for two research questions asked by a marketing manager of a games-producing company. The dashboard view is redesigned in Power BI for comparison of how I achieved the dashboard to answer the research questions using both methods (Tableau and Power BI). 
 
