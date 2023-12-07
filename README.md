@@ -13,3 +13,23 @@ The user is a marketing manager for a sports game-producing company. He wants to
 1.	In which year did the most popular sports games publisher record his highest growth in global sales and which platform influenced its growth in sales the most?
 2.	Between 2011-2016, was there a strong correlation in sales of sports games between any pair of regions and which was the top-selling sports game common to the regions? 
 
+### Implementation
+#### Tableau Dashboard
+<img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/73736049-0ae4-4f4f-b60b-19506ca2b78d">
+
+#### Power Bi Dahsboard
+<img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ad0c01a5-6ba3-47b0-bba8-ddacca1546f9">
+
+### Walkthrough
+ANSWERING QUESTION 1: From the 3 views below the year in which the most popular sports game publisher (Electronic Arts) had its highest sale was 2009 and the platform that influenced their popularity the most was PS3.
+1. Electronic Arts published the most sports games.
+<img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/40762a6f-b5b6-4734-994a-4dfcaa79db5a">
+
+2. 2009 is the period with the highest growth in sales of sports games.
+<img width="390" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/5cf2a09f-43cc-43e0-b559-1360deab9d90">
+
+3. PS3 was the best platform used to bring the highest sale.
+<img width="394" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ba416087-1c6b-4603-98f7-646d9aa058e6">
+
+
+
