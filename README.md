@@ -21,7 +21,7 @@ The user is a marketing manager for a sports game-producing company. He wants to
 <img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ad0c01a5-6ba3-47b0-bba8-ddacca1546f9">
 
 ### Walkthrough on Tableau
-ANSWERING QUESTION 1: From the 3 views below the year in which the most popular sports game publisher (Electronic Arts) had its highest sale was 2009 and the platform that influenced their popularity the most was PS3.
+**ANSWERING QUESTION 1:** From the 3 views below the year in which the most popular sports game publisher (Electronic Arts) had its highest sale was 2009 and the platform that influenced their popularity the most was PS3.
 1. Electronic Arts published the most sports games.
 <img width="452" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/40762a6f-b5b6-4734-994a-4dfcaa79db5a">
 
@@ -31,7 +31,7 @@ ANSWERING QUESTION 1: From the 3 views below the year in which the most popular 
 3. PS3 was the best platform used to bring the highest sale.
 <img width="394" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/ba416087-1c6b-4603-98f7-646d9aa058e6">
 
-ANSWERING QUESTION 2: From the views below, we see that there was a strong negative correlation between the EU(Europe) and NA (North America) and FIFA 15 was the top-selling game popular in the two regions. 
+**ANSWERING QUESTION 2:** From the views below, we see that there was a strong negative correlation between the EU(Europe) and NA (North America) and FIFA 15 was the top-selling game popular in the two regions. 
 
 4. EU and NA are seen to have a strong negative correlation.
 <img width="345" alt="image" src="https://github.com/UkamakaO/Data-Visualization-Project/assets/115948036/c49ee171-bdf8-4833-8e26-59c00cd59ec8">
